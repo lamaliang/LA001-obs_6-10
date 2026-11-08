@@ -1,0 +1,46 @@
+DIAG SET1 Aerosol: ANN MEANS GLOBAL < 200hPa
+ 
+TEST CASE: C96_t233_wg37.B1850C_LTso.taiesm2_dev_3b09.LA001 (yrs 6-10)
+ 
+CONTROL CASE: 
+ 
+Variable     C96_t233_wg37.B1850C_LTso.taiesm2_dev_3b09.LA001                      C96_t233_wg37.B1850C_LTso.taiesm2_dev_3b09.LA001-
+missing
+POM_BURDEN (TgC)             0.355            -999.000             0.000
+POM_EMIS (TgC/yr)           25.770            -999.000             0.000
+POM_DRYDEP (TgC/yr)          8.091            -999.000             0.000
+POM_WETDEP (TgC/yr)        -17.052            -999.000             0.000
+POM_CHMP (TgC/yr)            0.000            -999.000             0.000
+POM_LIFETIME (days)          5.155            -999.000             0.000
+SOA_BURDEN (TgC)             0.637            -999.000             0.000
+SOA_EMIS (TgC/yr)            0.000            -999.000             0.000
+SOA_DRYDEP (TgC/yr)          3.710            -999.000             0.000
+SOA_WETDEP (TgC/yr)        -42.031            -999.000             0.000
+SOA_CHMP (TgC/yr)            0.000            -999.000             0.000
+SOA_LIFETIME (days)          0.637            -999.000             0.000
+BC_BURDEN (TgC)              0.037            -999.000             0.000
+BC_EMIS (TgC/yr)             2.596            -999.000             0.000
+BC_DRYDEP (TgC/yr)           0.815            -999.000             0.000
+BC_WETDEP (TgC/yr)          -1.732            -999.000             0.000
+BC_CHMP (TgC/yr)             0.000            -999.000             0.000
+BC_LIFETIME (days)           5.314            -999.000             0.000
+DUST_BURDEN (TgC)           21.653            -999.000             0.000
+DUST_EMIS (TgC/yr)        3040.921            -999.000             0.000
+DUST_DRYDEP (TgC/yr)      1877.914            -999.000             0.000
+DUST_WETDEP (TgC/yr)     -1130.595            -999.000             0.000
+DUST_CHMP (TgC/yr)           0.000            -999.000             0.000
+DUST_LIFETIME (days)         2.627            -999.000             0.000
+SALT_BURDEN (TgC)            5.202            -999.000             0.000
+SALT_EMIS (TgC/yr)        3646.535            -999.000             0.000
+SALT_DRYDEP (TgC/yr)      1030.628            -999.000             0.000
+SALT_WETDEP (TgC/yr)     -2594.556            -999.000             0.000
+SALT_CHMP (TgC/yr)           0.000            -999.000             0.000
+SALT_LIFETIME (days)         0.524            -999.000             0.000
+SO4_BURDEN (TgS)             0.255            -999.000             0.000
+SO4_EMIS (TgS/yr)            0.368            -999.000             0.000
+SO4_DRYDEP (TgS/yr)          2.083            -999.000             0.000
+SO4_WETDEP (TgS/yr)        -11.542            -999.000             0.000
+SO4_CHMP (TgS/yr)            0.000            -999.000             0.000
+SO4_AQ_PROD (TgS/yr)         0.000            -999.000             0.000
+SO4_TOTAL_PROD (TgS/yr)      0.000            -999.000             0.000
+SO4_LIFETIME (days)          6.829            -999.000             0.000
